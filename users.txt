@@ -1,0 +1,2 @@
+User: aaron, Location: new york, Date: 04-12-2018User: aaron, Location: new york, Date: 04-12-2018User: aaron, Location: paris, Date: 04-12-2018
+User: aaron, Location: paris, Date: 04-12-2018 
