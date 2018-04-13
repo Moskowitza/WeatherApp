@@ -1,11 +1,11 @@
 var User = require("./user.js");
-var admin = require("./admin.js");
+var showHistory = require("./admin.js");
 //require("./admin.js");
 var moment = require("moment");
 
 
 if (process.argv[2] === "admin") {
-   admin.showHistory();
+    showHistory()
 }
 else {
     var person = new User(process.argv[2], process.argv[3]);
